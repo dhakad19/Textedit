@@ -1,4 +1,4 @@
-#Text-Editor
+# Text-Editor
 Edit given text
-#Technology Used
+# Technology Used
 React,bootstrap,css
